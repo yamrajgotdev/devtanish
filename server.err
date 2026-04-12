@@ -1,0 +1,38 @@
+INFO 2026-04-05 20:34:59,542 autoreload Watching for file changes with StatReloader
+INFO 2026-04-05 20:48:17,109 log "GET /api/health/ HTTP/1.1" 200 69
+INFO 2026-04-05 20:48:17,169 basehttp - Broken pipe from ('127.0.0.1', 49379)
+INFO 2026-04-05 20:48:24,210 log "GET /api/info/ HTTP/1.1" 200 823
+INFO 2026-04-05 20:48:24,430 basehttp - Broken pipe from ('127.0.0.1', 49380)
+INFO 2026-04-05 20:48:31,402 log "POST /api/auth/login/ HTTP/1.1" 200 117
+INFO 2026-04-05 20:48:31,464 basehttp - Broken pipe from ('127.0.0.1', 49382)
+INFO 2026-04-05 20:50:58,005 log "GET /api/health/ HTTP/1.1" 200 69
+INFO 2026-04-05 20:50:58,051 basehttp - Broken pipe from ('127.0.0.1', 61333)
+WARNING 2026-04-05 20:51:05,744 log Not Found: /api/
+WARNING 2026-04-05 20:51:05,746 log "GET /api/ HTTP/1.1" 404 3314
+INFO 2026-04-05 20:51:05,944 basehttp - Broken pipe from ('127.0.0.1', 61341)
+INFO 2026-04-05 20:51:48,801 autoreload C:\Users\ACER\Documents\main\project\core\views.py changed, reloading.
+INFO 2026-04-05 20:51:50,467 autoreload Watching for file changes with StatReloader
+INFO 2026-04-05 20:51:57,812 autoreload C:\Users\ACER\Documents\main\project\core\urls.py changed, reloading.
+INFO 2026-04-05 20:51:59,312 autoreload Watching for file changes with StatReloader
+INFO 2026-04-05 20:52:05,251 log "GET /api/ HTTP/1.1" 200 841
+INFO 2026-04-05 20:52:05,299 basehttp - Broken pipe from ('127.0.0.1', 60347)
+WARNING 2026-04-05 20:52:12,017 log Not Found: /api/health/ -UseBasicParsing
+WARNING 2026-04-05 20:52:12,034 log "GET /api/health/%20-UseBasicParsing HTTP/1.1" 404 3639
+INFO 2026-04-05 20:52:12,504 basehttp - Broken pipe from ('127.0.0.1', 60348)
+INFO 2026-04-05 20:52:20,573 log "GET /api/health/ HTTP/1.1" 200 69
+INFO 2026-04-05 20:52:20,621 basehttp - Broken pipe from ('127.0.0.1', 60352)
+INFO 2026-04-05 20:52:32,749 log "POST /api/auth/login/ HTTP/1.1" 200 117
+INFO 2026-04-05 20:52:32,853 basehttp - Broken pipe from ('127.0.0.1', 60354)
+INFO 2026-04-05 20:52:39,542 log "GET /api/drivers/nearby/?lat=19.076&lng=72.877 HTTP/1.1" 200 39
+INFO 2026-04-05 20:52:39,598 basehttp - Broken pipe from ('127.0.0.1', 65093)
+INFO 2026-04-05 20:52:50,406 log "GET /api/maps/autocomplete/?input=mumbai HTTP/1.1" 200 910
+INFO 2026-04-05 20:52:50,454 basehttp - Broken pipe from ('127.0.0.1', 65095)
+WARNING 2026-04-05 20:54:04,368 log Not Found: /
+WARNING 2026-04-05 20:54:04,387 log "GET / HTTP/1.1" 404 2917
+WARNING 2026-04-05 20:54:04,404 log Not Found: /
+WARNING 2026-04-05 20:54:04,405 log "GET / HTTP/1.1" 404 2917
+WARNING 2026-04-05 20:54:04,589 log Not Found: /favicon.ico
+WARNING 2026-04-05 20:54:04,591 log "GET /favicon.ico HTTP/1.1" 404 2968
+INFO 2026-04-05 20:56:55,866 log "GET /api/ HTTP/1.1" 200 841
+WARNING 2026-04-05 20:56:56,045 log Not Found: /favicon.ico
+WARNING 2026-04-05 20:56:56,064 log "GET /favicon.ico HTTP/1.1" 404 2968
